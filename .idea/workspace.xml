@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="112ba3ca-6638-4b95-9a10-298ef09dd0ac" name="Default Changelist" comment="update Education and Skills sections">
-      <change beforePath="$PROJECT_DIR$/cv/RESUME_HSU-SHENG-KO_1-28-2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <updated>1587500349596</updated>
       <workItem from="1611865785409" duration="2288000" />
       <workItem from="1616468060674" duration="1803000" />
-      <workItem from="1631565784196" duration="1075000" />
+      <workItem from="1631565784196" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="attempt to fix portfolio tab and cv button">
       <created>1587501793755</created>
