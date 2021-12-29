@@ -7165,8 +7165,8 @@ Created using IcoMoon - icomoon.io
 
 /* Experience Style */
 .cc-experience .cc-experience-header {
-  padding-top: 60px;
-  padding-right: 0;
+  padding-top: 30px;
+  padding-right: 30px;
   text-align: center;
   color: #fff;
   text-transform: uppercase;
@@ -7178,8 +7178,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
-  padding-right: 0;
+  padding-top: 30px;
+  padding-right: 30px;
   text-align: center;
   color: #fff;
 }
@@ -7190,8 +7190,8 @@ Created using IcoMoon - icomoon.io
 }
 
 .cc-projects .cc-projects-header {
-  padding-top: 60px;
-  padding-right: 0;
+  padding-top: 30px;
+  padding-right: 30px;
   text-align: center;
   color: #fff;
 }
