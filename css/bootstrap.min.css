@@ -557,6 +557,7 @@ mark {
     transition: all .2s ease-in-out;
     max-width: 100%;
     height: auto
+    filter: brightness(50%)
 }
 
 .figure {
